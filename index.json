@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "deepset-mcp-server",
+  "versions": [
+    {
+      "commit": "af059c05e8ba9bb2c3ec000cb94b326bfdaecf50",
+      "tag": "v0.1.44",
+      "parsed_at": "2026-11-08T02:32:38.282528+00:00"
+    }
+  ]
+}
