@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/deepset-mcp-server/commit/af059c05e8ba9bb2c3ec000cb94b326bfdaecf50",
       "git:hexsha": "af059c05e8ba9bb2c3ec000cb94b326bfdaecf50",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.1.44"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.1.44",
+      "repolex:parsedAt": "2026-11-08T02:32:38.281740+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/deepset-mcp-server/commit/4072af9fcd54a43ad55e287dd68da13aed29e82a",
